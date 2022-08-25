@@ -1,0 +1,14 @@
+C:\Users\abdlk\OneDrive\Masaüstü\Apo\abdlkdrkya\src\main\java\com\kanaryahaber\abdlkdrkya\AbdlkdrkyaApplication.java
+C:\Users\abdlk\OneDrive\Masaüstü\Apo\abdlkdrkya\src\main\java\com\kanaryahaber\abdlkdrkya\entities\concretes\Haberler.java
+C:\Users\abdlk\OneDrive\Masaüstü\Apo\abdlkdrkya\src\main\java\com\kanaryahaber\abdlkdrkya\business\concretes\HaberManager.java
+C:\Users\abdlk\OneDrive\Masaüstü\Apo\abdlkdrkya\src\main\java\com\kanaryahaber\abdlkdrkya\core\utilities\results\SuccessDataResult.java
+C:\Users\abdlk\OneDrive\Masaüstü\Apo\abdlkdrkya\src\main\java\com\kanaryahaber\abdlkdrkya\business\abstracts\HaberService.java
+C:\Users\abdlk\OneDrive\Masaüstü\Apo\abdlkdrkya\src\main\java\com\kanaryahaber\abdlkdrkya\dataAccess\abstracts\HaberlerDao.java
+C:\Users\abdlk\OneDrive\Masaüstü\Apo\abdlkdrkya\src\main\java\com\kanaryahaber\abdlkdrkya\entities\concretes\Kategori.java
+C:\Users\abdlk\OneDrive\Masaüstü\Apo\abdlkdrkya\src\main\java\com\kanaryahaber\abdlkdrkya\core\utilities\results\ErrorResult.java
+C:\Users\abdlk\OneDrive\Masaüstü\Apo\abdlkdrkya\src\main\java\com\kanaryahaber\abdlkdrkya\entities\dtos\HaberWithCategoryDto.java
+C:\Users\abdlk\OneDrive\Masaüstü\Apo\abdlkdrkya\src\main\java\com\kanaryahaber\abdlkdrkya\api\controllers\HaberlerController.java
+C:\Users\abdlk\OneDrive\Masaüstü\Apo\abdlkdrkya\src\main\java\com\kanaryahaber\abdlkdrkya\core\utilities\results\DataResult.java
+C:\Users\abdlk\OneDrive\Masaüstü\Apo\abdlkdrkya\src\main\java\com\kanaryahaber\abdlkdrkya\core\utilities\results\ErrorDataResult.java
+C:\Users\abdlk\OneDrive\Masaüstü\Apo\abdlkdrkya\src\main\java\com\kanaryahaber\abdlkdrkya\core\utilities\results\Result.java
+C:\Users\abdlk\OneDrive\Masaüstü\Apo\abdlkdrkya\src\main\java\com\kanaryahaber\abdlkdrkya\core\utilities\results\SuccessResult.java

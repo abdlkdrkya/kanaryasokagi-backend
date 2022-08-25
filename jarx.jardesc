@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="abdlkdrkya/build/kanaryahaber.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/abdlkdrkya/jarx.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=abdlkdrkya/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.kanaryahaber.abdlkdrkya{AbdlkdrkyaApplication.java[AbdlkdrkyaApplication" manifestLocation="/abdlkdrkya/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <folder path="/abdlkdrkya/src"/>
+        <file path="/abdlkdrkya/jarx.jardesc"/>
+        <file path="/abdlkdrkya/.classpath"/>
+        <file path="/abdlkdrkya/mvnw.cmd"/>
+        <file path="/abdlkdrkya/manifest"/>
+        <javaElement handleIdentifier="=abdlkdrkya/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <javaElement handleIdentifier="=abdlkdrkya/src\/main\/resources=/maven.pomderived=/true=/"/>
+        <file path="/abdlkdrkya/HELP.md"/>
+        <file path="/abdlkdrkya/.gitignore"/>
+        <javaElement handleIdentifier="=abdlkdrkya/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/"/>
+        <file path="/abdlkdrkya/mvnw"/>
+        <file path="/abdlkdrkya/.project"/>
+        <folder path="/abdlkdrkya/target"/>
+        <file path="/abdlkdrkya/pom.xml"/>
+    </selectedElements>
+</jardesc>
